@@ -1,4 +1,4 @@
-package com.saucedemo;
+package com.internetproject;
 
 public class Main {
     public static void main(String[] args) {
