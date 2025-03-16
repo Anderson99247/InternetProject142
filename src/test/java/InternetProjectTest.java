@@ -33,7 +33,7 @@ public class InternetProjectTest {
 
     }
 
-    // // Método auxiliar para login (sem @Test)
+    // Método auxiliar para login (sem @Test)
     
     public void realizarLogin(String usuario, String senha) {
         driver.get("https://the-internet.herokuapp.com/login");   // Abre o site, the-internet.herokuapp.com
